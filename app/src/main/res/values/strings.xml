@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GDSC_DemoApp</string>
+    <string name="sejarahFikom">Fakultas Ilmu Komputer merupakan salah satu dari 12 (dua belas) Fakultas yang dibina oleh Universitas Muslim Indonesia yang berada dibawah naungan Yayasan Badan Wakaf UMI. Berawal pada pemikiran pimpinan Universitas Muslim Indonesia dalam rangka melihat betapa berkembang pesatnya Sistem Informasi di dunia global dewasa ini. Indonesia umumnya dan khususnya Kawasan Indonesia Timur sangat dibutuhkan sumber daya manusia di bidang Teknologi Informasi.\n
+
+Awal didirikan pada tanggal 10 Desember 1999 berdasarkan Surat Keputusan Mendikbud Republik Indonesia Nomor 486/DIKTI/KEP/1999. Sejak awal didirikan, Fakultas Ilmu Komputer hanya membina 1 (satu) Program Studi yakni Program Studi Teknik Informatika. Sebagai hasil dari upaya untuk melakukan perbaikan dalam pengelolaannya, maka program studi tersebut telah memperoleh status terakreditasi dari Badan Akreditasi Nasional dengan SK Nomor 007/BAN-PT/Ak-VII/S1/III/2004, tanggal 12 Maret 2004, yang kemudian melakukan re-akreditasi pada tahun 2007 berdasarkan SK Nomor 016/BAN-PT/Ak-X/S1/III/2007, tanggal 3 Agustus 2007.\n
+
+Dalam perkembangannya, pada tahun 2013 Fakultas Ilmu Komputer membuat lokakarya perubahan kurikulum yang mengacu pada kurikulum APTIKOM. Dan pada lokakarya ini, Fakultas Ilmu Komputer dengan Program Studi Teknik Informatika memiliki tiga bidang peminatan/konsentrasi, diantaranya Rekayasa Perangkat Lunak, Komputasi Jaringan dan Industri Informatika.</string>
+    <string name="fasilitas1">Laboratorium fakultas ilmu komputer merupakan fasilitas yang mendukung mahasiswa dalam mengasah keterampilan dan pengetahuan praktis mereka</string>
+    <string name="amalat">Gedung Fakultas Ilmu Komputer Kampus II Universitas Muslim Indonesia Jln. Urip Sumoharjo KM.5, Makassar, Sulawesi Selatan</string>
+</resources>
